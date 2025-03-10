@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b4ad4447467b8a7478e6021dd5ae1459
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - arrowPrefab: {fileID: 4069451110385849933, guid: f31bf47185f62a54e8a63e11e4002e60,
+      type: 3}
+  - arrowSpawnPoint: {instanceID: 0}
+  - swampPrefab: {fileID: 1826791167729491815, guid: 41a56a0cc94a40a428a8d26702ab7836,
+      type: 3}
+  - warningPrefab: {fileID: 7143127066360742285, guid: dc915f9c7e2fa9748a0493cc8f6bfdcf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

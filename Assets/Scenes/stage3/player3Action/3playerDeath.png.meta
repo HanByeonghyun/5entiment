@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: d90cdde9e9c0f934b9a29e5c951c09e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -310319133684736541
+    second: 3playerDeath_0
+  - first:
+      213: -3247379035640557122
+    second: 3playerDeath_1
+  - first:
+      213: 3410404920139609082
+    second: 3playerDeath_2
+  - first:
+      213: 3558155262470549045
+    second: 3playerDeath_3
+  - first:
+      213: -7352467224209578314
+    second: 3playerDeath_4
+  - first:
+      213: -7635812181794715493
+    second: 3playerDeath_5
+  - first:
+      213: 4098510397494882586
+    second: 3playerDeath_6
+  - first:
+      213: -2235219724152054011
+    second: 3playerDeath_7
+  - first:
+      213: -5027329773292057775
+    second: 3playerDeath_8
+  - first:
+      213: 8455613516991611928
+    second: 3playerDeath_9
+  - first:
+      213: 2172799611183993675
+    second: 3playerDeath_10
+  - first:
+      213: 6391266415477659031
+    second: 3playerDeath_11
+  - first:
+      213: 4782880504171357770
+    second: 3playerDeath_12
+  - first:
+      213: 8957320789969446511
+    second: 3playerDeath_13
+  - first:
+      213: 8849407246126131294
+    second: 3playerDeath_14
+  - first:
+      213: -1041715841566295228
+    second: 3playerDeath_15
+  - first:
+      213: -3799463378690746946
+    second: 3playerDeath_16
+  - first:
+      213: 5211487820926403770
+    second: 3playerDeath_17
+  - first:
+      213: 6777341629536442414
+    second: 3playerDeath_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3playerDeath_0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1561
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd6bd546681bbf0800000000000000
+      internalID: -310319133684736541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1561
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb11891f8fdfee2d0800000000000000
+      internalID: -3247379035640557122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_2
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1561
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37a2da431345f20800000000000000
+      internalID: 3410404920139609082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1301
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e6e3bfb5b116130800000000000000
+      internalID: 3558155262470549045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1298
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6294eb30ac6f990800000000000000
+      internalID: -7352467224209578314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_5
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1301
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988684e645280690800000000000000
+      internalID: -7635812181794715493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1041
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117deedd75d0e830800000000000000
+      internalID: 4098510397494882586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1041
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f58fae087eaf0e0800000000000000
+      internalID: -2235219724152054011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_8
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1041
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8e2605365b3ab0800000000000000
+      internalID: -5027329773292057775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 781
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c646a1bf585570800000000000000
+      internalID: 8455613516991611928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_10
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 781
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439ab00cb5572e10800000000000000
+      internalID: 2172799611183993675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 781
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7951e6741f652b850800000000000000
+      internalID: 6391266415477659031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 521
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46664e4a74306240800000000000000
+      internalID: 4782880504171357770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 521
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a951fccbce4c70800000000000000
+      internalID: 8957320789969446511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 521
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58ad1211096fca70800000000000000
+      internalID: 8849407246126131294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 261
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3b8a16f41b81f0800000000000000
+      internalID: -1041715841566295228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_16
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 261
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb558000038954bc0800000000000000
+      internalID: -3799463378690746946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 261
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c79dbf8ce25840800000000000000
+      internalID: 5211487820926403770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerDeath_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289cfddd44fd0e50800000000000000
+      internalID: 6777341629536442414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1236e80a2c217f44d8f1b747592af6ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3playerDeath_0: -310319133684736541
+      3playerDeath_1: -3247379035640557122
+      3playerDeath_10: 2172799611183993675
+      3playerDeath_11: 6391266415477659031
+      3playerDeath_12: 4782880504171357770
+      3playerDeath_13: 8957320789969446511
+      3playerDeath_14: 8849407246126131294
+      3playerDeath_15: -1041715841566295228
+      3playerDeath_16: -3799463378690746946
+      3playerDeath_17: 5211487820926403770
+      3playerDeath_18: 6777341629536442414
+      3playerDeath_2: 3410404920139609082
+      3playerDeath_3: 3558155262470549045
+      3playerDeath_4: -7352467224209578314
+      3playerDeath_5: -7635812181794715493
+      3playerDeath_6: 4098510397494882586
+      3playerDeath_7: -2235219724152054011
+      3playerDeath_8: -5027329773292057775
+      3playerDeath_9: 8455613516991611928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

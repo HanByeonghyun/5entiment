@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 258e2699a7b2cea4187789edd6cada3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2102495548062569492
+    second: boss2Atk3_0
+  - first:
+      213: -3514185862650292191
+    second: boss2Atk3_1
+  - first:
+      213: 4124471153586681201
+    second: boss2Atk3_2
+  - first:
+      213: 6158650829231737988
+    second: boss2Atk3_3
+  - first:
+      213: -3626818455053717187
+    second: boss2Atk3_4
+  - first:
+      213: -7527457638184339014
+    second: boss2Atk3_5
+  - first:
+      213: -1473842512959684235
+    second: boss2Atk3_6
+  - first:
+      213: -8975977401851769626
+    second: boss2Atk3_7
+  - first:
+      213: 2033805431072712226
+    second: boss2Atk3_8
+  - first:
+      213: 7108101703741242790
+    second: boss2Atk3_9
+  - first:
+      213: -4464356418836165084
+    second: boss2Atk3_10
+  - first:
+      213: -6768163111527185792
+    second: boss2Atk3_11
+  - first:
+      213: 7588131204393171164
+    second: boss2Atk3_12
+  - first:
+      213: -4489960920663205883
+    second: boss2Atk3_13
+  - first:
+      213: 2770538536244264881
+    second: boss2Atk3_14
+  - first:
+      213: -7768980574794125877
+    second: boss2Atk3_15
+  - first:
+      213: 2874195174627809858
+    second: boss2Atk3_16
+  - first:
+      213: -640576940461150129
+    second: boss2Atk3_17
+  - first:
+      213: 3461373809520658441
+    second: boss2Atk3_18
+  - first:
+      213: 6654429767948772589
+    second: boss2Atk3_19
+  - first:
+      213: 5193135309094823704
+    second: boss2Atk3_20
+  - first:
+      213: 7287151989687180621
+    second: boss2Atk3_21
+  - first:
+      213: -2604487730685994205
+    second: boss2Atk3_22
+  - first:
+      213: 7855022993663352978
+    second: boss2Atk3_23
+  - first:
+      213: -404035949934700069
+    second: boss2Atk3_24
+  - first:
+      213: -5956590062902362541
+    second: boss2Atk3_25
+  - first:
+      213: 5376446660855181903
+    second: boss2Atk3_26
+  - first:
+      213: -4937108851570839267
+    second: boss2Atk3_27
+  - first:
+      213: 1009780227437243828
+    second: boss2Atk3_28
+  - first:
+      213: 5713156935459720072
+    second: boss2Atk3_29
+  - first:
+      213: 2009137436189062002
+    second: boss2Atk3_30
+  - first:
+      213: -4747086863107142948
+    second: boss2Atk3_31
+  - first:
+      213: -1646006858211365057
+    second: boss2Atk3_32
+  - first:
+      213: -3538950714995738403
+    second: boss2Atk3_33
+  - first:
+      213: -7680102531329010579
+    second: boss2Atk3_34
+  - first:
+      213: 5334800801594958192
+    second: boss2Atk3_35
+  - first:
+      213: -7151370038211863712
+    second: boss2Atk3_36
+  - first:
+      213: 766399664186071471
+    second: boss2Atk3_37
+  - first:
+      213: 4979631628772293468
+    second: boss2Atk3_38
+  - first:
+      213: 4931238838951976202
+    second: boss2Atk3_39
+  - first:
+      213: -4175556130481166275
+    second: boss2Atk3_40
+  - first:
+      213: -8756493511376116110
+    second: boss2Atk3_41
+  - first:
+      213: -3905930954813707088
+    second: boss2Atk3_42
+  - first:
+      213: -3240707501311455629
+    second: boss2Atk3_43
+  - first:
+      213: 7427098171785755763
+    second: boss2Atk3_44
+  - first:
+      213: -1262249464236042202
+    second: boss2Atk3_45
+  - first:
+      213: 8419215385002717250
+    second: boss2Atk3_46
+  - first:
+      213: 8730669448743479499
+    second: boss2Atk3_47
+  - first:
+      213: 7602652135352630727
+    second: boss2Atk3_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss2Atk3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ac521f6bb8bf46abb020e24ea1df9
+      internalID: 35982919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2Atk3_1
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 960
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db521925453badf4a88d005a99ace25c
+      internalID: -1040131426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2Atk3_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df45eb6e98acca4d8780cd6d0796202
+      internalID: -1153157849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2Atk3_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d873b837b57cb447a532a43de239f47
+      internalID: 476564760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2Atk3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c05f6a6e45f84286078a8836bb863
+      internalID: -1224427894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2Atk3_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 864
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679fc3dc0ac292443b622ef99f28abd5
+      internalID: -849107576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 705d87911bde37d42b7c0484ac3807a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss2Atk3_0: 35982919
+      boss2Atk3_1: -1040131426
+      boss2Atk3_2: -1153157849
+      boss2Atk3_3: 476564760
+      boss2Atk3_4: -1224427894
+      boss2Atk3_5: -849107576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 710bb5022283a3344ba7e97b96b0b612
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eBallPrefab: {fileID: 1329465621190931577, guid: 723f87d2f19144843aa2713b56818482, type: 3}
+  - windmillPrefab: {fileID: 2791140266948106528, guid: 5970f9ae615482b41916a588c69068b4, type: 3}
+  - windmillSpawnPoint: {instanceID: 0}
+  - warningPrefab: {fileID: 7143127066360742285, guid: dc915f9c7e2fa9748a0493cc8f6bfdcf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

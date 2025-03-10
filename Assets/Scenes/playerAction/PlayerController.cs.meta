@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 35fc090bd355de74a9ed8158afedcb70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - change1Prefab: {fileID: 8956345663385255581, guid: eb0776651c45a4049836a00896fc48e3, type: 3}
+  - change2Prefab: {fileID: 5036762439254506270, guid: 3bf5de05781ee614688f12be3f7477e6, type: 3}
+  - change3Prefab: {fileID: 3369469562595144010, guid: f8671540a1f631e4497d2d49fa68c28d, type: 3}
+  - change4Prefab: {fileID: 7859469812430866254, guid: 52f8d60172aa1e748b1c2c5b356d8a28, type: 3}
+  - arrowPrefab: {fileID: 4069451110385849933, guid: f31bf47185f62a54e8a63e11e4002e60, type: 3}
+  - arrowSpawnPoint: {instanceID: 0}
+  - RainPrefab: {fileID: 5700487313946693602, guid: 0cc05371cbf1b6648b04008a9f9f2711, type: 3}
+  - skill1Prefab: {fileID: 8358577108634191489, guid: d0dcbe3413fa1444b96aa3dda8949863, type: 3}
+  - skill2Prefab: {fileID: 8923980484834738183, guid: 4a5e7d54526f20f4ca0eec677d4beb03, type: 3}
+  - skill3Prefab: {fileID: 2923920692659297854, guid: bc7e6e05f2e811e4aac86f2effb8398c, type: 3}
+  - player0Prefab: {fileID: 4869652371458294575, guid: f91b20aaf31d546429128b570d66a4b4, type: 3}
+  - player1Prefab: {fileID: 8999692531849874381, guid: 4f47541c8b968c24388765eb7d7bce81, type: 3}
+  - player2Prefab: {fileID: 2034514544373624043, guid: 920b23b2469eac3468ff745c22198a43, type: 3}
+  - player3Prefab: {fileID: 6644311044207090110, guid: 1adb58af35d3b8145999dbac5fc1c45a, type: 3}
+  - player4Prefab: {fileID: 3250229962087201971, guid: 71df86e1c2d3bc14ebd85c05c5e802d9, type: 3}
+  - pauseManager: {instanceID: 0}
+  - playerStateManager: {instanceID: 0}
+  - playerState: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

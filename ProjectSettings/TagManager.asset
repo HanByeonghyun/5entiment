@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - arrow
+  - player
+  - wind
+  - Tilemap
+  - Boss2
+  - Boss1
+  - Boss3
+  - Platform
+  - Ground
+  - Wall
+  - Cliff
+  - Boss4
+  - monster
+  - monsHP
+  - FireCliff
+  - Ground2
+  - FireCliff2
+  - Fall
+  - Fall2
+  - rain
+  - skill1
+  - skill2
+  - skill3
+  - windmill
+  - eball
+  - change
+  - playerUI
+  - sentiment0
+  - sentiment1
+  - sentiment2
+  - sentiment3
+  - sentiment4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - arrow
+  - GroundChecker
+  - Tilemap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

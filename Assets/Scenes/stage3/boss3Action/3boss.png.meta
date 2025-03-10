@@ -1,0 +1,2854 @@
+fileFormatVersion: 2
+guid: 194f71defb5ae624baf35bdadc409bb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8714767965009461677
+    second: 3boss_0
+  - first:
+      213: -1782961802001166095
+    second: 3boss_1
+  - first:
+      213: -6685268072773662142
+    second: 3boss_2
+  - first:
+      213: 2163372034858581165
+    second: 3boss_3
+  - first:
+      213: -3216669077129843015
+    second: 3boss_4
+  - first:
+      213: -8012670275497220013
+    second: 3boss_5
+  - first:
+      213: 7803791083312491174
+    second: 3boss_6
+  - first:
+      213: -8008084329335025135
+    second: 3boss_7
+  - first:
+      213: -9150915085712239523
+    second: 3boss_8
+  - first:
+      213: 3306702031734834471
+    second: 3boss_9
+  - first:
+      213: -8537712806123973007
+    second: 3boss_10
+  - first:
+      213: 1432858359040711574
+    second: 3boss_11
+  - first:
+      213: -4496057280626151393
+    second: 3boss_12
+  - first:
+      213: -3578846037724309862
+    second: 3boss_13
+  - first:
+      213: -1568838055250302311
+    second: 3boss_14
+  - first:
+      213: 3749566540320935127
+    second: 3boss_15
+  - first:
+      213: 5809275665395827064
+    second: 3boss_16
+  - first:
+      213: 755670573322371468
+    second: 3boss_17
+  - first:
+      213: 270877417789321919
+    second: 3boss_18
+  - first:
+      213: -4566683520762895387
+    second: 3boss_19
+  - first:
+      213: 2299214259076064501
+    second: 3boss_20
+  - first:
+      213: 7825606537284206717
+    second: 3boss_21
+  - first:
+      213: 5999667747379384516
+    second: 3boss_22
+  - first:
+      213: -2491975370654604062
+    second: 3boss_23
+  - first:
+      213: -4308667966886331678
+    second: 3boss_24
+  - first:
+      213: 6139429534460723283
+    second: 3boss_25
+  - first:
+      213: 6339929682123018930
+    second: 3boss_26
+  - first:
+      213: -2704969974257852520
+    second: 3boss_27
+  - first:
+      213: -826819278194014084
+    second: 3boss_28
+  - first:
+      213: 4038895065745736645
+    second: 3boss_29
+  - first:
+      213: 3469224981428477359
+    second: 3boss_30
+  - first:
+      213: 518553251681905958
+    second: 3boss_31
+  - first:
+      213: 3244424369247116737
+    second: 3boss_32
+  - first:
+      213: 8475613770267995803
+    second: 3boss_33
+  - first:
+      213: 6613469148461871314
+    second: 3boss_34
+  - first:
+      213: 5245189049584094083
+    second: 3boss_35
+  - first:
+      213: 6525691011080441594
+    second: 3boss_36
+  - first:
+      213: 6065044971976235437
+    second: 3boss_37
+  - first:
+      213: -4642841782013312799
+    second: 3boss_38
+  - first:
+      213: 3179647138432103213
+    second: 3boss_39
+  - first:
+      213: -2327238519070655094
+    second: 3boss_40
+  - first:
+      213: 3285901698622428065
+    second: 3boss_41
+  - first:
+      213: 984121947356557170
+    second: 3boss_42
+  - first:
+      213: -8851243961541799637
+    second: 3boss_43
+  - first:
+      213: -6468709581106888139
+    second: 3boss_44
+  - first:
+      213: 6519853655996962011
+    second: 3boss_45
+  - first:
+      213: -3467923028636296566
+    second: 3boss_46
+  - first:
+      213: -827816430955348389
+    second: 3boss_47
+  - first:
+      213: 7801983063182267234
+    second: 3boss_48
+  - first:
+      213: -5363088984005325523
+    second: 3boss_49
+  - first:
+      213: -9152641200714192952
+    second: 3boss_50
+  - first:
+      213: 4316374969770370916
+    second: 3boss_51
+  - first:
+      213: -1120272409534678804
+    second: 3boss_52
+  - first:
+      213: -2492175031449207840
+    second: 3boss_53
+  - first:
+      213: -6209850825615967169
+    second: 3boss_54
+  - first:
+      213: 2539950520007326040
+    second: 3boss_55
+  - first:
+      213: -4353762182314157647
+    second: 3boss_56
+  - first:
+      213: 6680168719741547770
+    second: 3boss_57
+  - first:
+      213: 613533237360209975
+    second: 3boss_58
+  - first:
+      213: 7274908349089040587
+    second: 3boss_59
+  - first:
+      213: -2518956567589285339
+    second: 3boss_60
+  - first:
+      213: -6182789306147346792
+    second: 3boss_61
+  - first:
+      213: -3546963925223445820
+    second: 3boss_62
+  - first:
+      213: -7655204167469631629
+    second: 3boss_63
+  - first:
+      213: -5825608358789510633
+    second: 3boss_64
+  - first:
+      213: -5311394564521330980
+    second: 3boss_65
+  - first:
+      213: -8269962221058201737
+    second: 3boss_66
+  - first:
+      213: -322950048291984897
+    second: 3boss_67
+  - first:
+      213: 7433712608278018087
+    second: 3boss_68
+  - first:
+      213: 4136695427016159566
+    second: 3boss_69
+  - first:
+      213: -9030637911107310969
+    second: 3boss_70
+  - first:
+      213: 2570368361831043707
+    second: 3boss_71
+  - first:
+      213: -1357056554317066659
+    second: 3boss_72
+  - first:
+      213: -6100356568262957413
+    second: 3boss_73
+  - first:
+      213: -8144111694580263748
+    second: 3boss_74
+  - first:
+      213: -4179215046103210520
+    second: 3boss_75
+  - first:
+      213: 8613608818264056846
+    second: 3boss_76
+  - first:
+      213: -4008565114502910542
+    second: 3boss_77
+  - first:
+      213: -2777902910131267436
+    second: 3boss_78
+  - first:
+      213: -8476439392631418025
+    second: 3boss_79
+  - first:
+      213: 5329289753308277667
+    second: 3boss_80
+  - first:
+      213: -8742239683573850803
+    second: 3boss_81
+  - first:
+      213: -1076205420105271432
+    second: 3boss_82
+  - first:
+      213: 4599639043363599786
+    second: 3boss_83
+  - first:
+      213: -561927488615310999
+    second: 3boss_84
+  - first:
+      213: 7199571076937406260
+    second: 3boss_85
+  - first:
+      213: 8456733100235586830
+    second: 3boss_86
+  - first:
+      213: -8417715291074028264
+    second: 3boss_87
+  - first:
+      213: -7654011700433999434
+    second: 3boss_88
+  - first:
+      213: 3248705886316866107
+    second: 3boss_89
+  - first:
+      213: 2676179054964018258
+    second: 3boss_90
+  - first:
+      213: 270088332876772213
+    second: 3boss_91
+  - first:
+      213: -1877374326745508424
+    second: 3boss_92
+  - first:
+      213: 8454727029842799269
+    second: 3boss_93
+  - first:
+      213: -8609043673286941008
+    second: 3boss_94
+  - first:
+      213: 2890277865609679939
+    second: 3boss_95
+  - first:
+      213: 8136554423973491671
+    second: 3boss_96
+  - first:
+      213: -1216615836428243507
+    second: 3boss_97
+  - first:
+      213: 1288928173712938236
+    second: 3boss_98
+  - first:
+      213: 4440539617467748915
+    second: 3boss_99
+  - first:
+      213: 2823324981720815307
+    second: 3boss_100
+  - first:
+      213: 1359364230134708879
+    second: 3boss_101
+  - first:
+      213: 8095012259992047818
+    second: 3boss_102
+  - first:
+      213: -7626525694488775694
+    second: 3boss_103
+  - first:
+      213: -5701051874533255483
+    second: 3boss_104
+  - first:
+      213: -5611039407591351677
+    second: 3boss_105
+  - first:
+      213: 2733200818155390338
+    second: 3boss_106
+  - first:
+      213: 3210145376042638046
+    second: 3boss_107
+  - first:
+      213: 2915928693726158867
+    second: 3boss_108
+  - first:
+      213: 3680202061249741901
+    second: 3boss_109
+  - first:
+      213: 1962828129043788733
+    second: 3boss_110
+  - first:
+      213: -8035795692824612320
+    second: 3boss_111
+  - first:
+      213: -1546158894997151721
+    second: 3boss_112
+  - first:
+      213: -654643291956577778
+    second: 3boss_113
+  - first:
+      213: -3367325937846826876
+    second: 3boss_114
+  - first:
+      213: 338549582674068434
+    second: 3boss_115
+  - first:
+      213: -1879596208285704233
+    second: 3boss_116
+  - first:
+      213: -6681164461737132703
+    second: 3boss_117
+  - first:
+      213: 2826569024624676225
+    second: 3boss_118
+  - first:
+      213: 7381148115699068536
+    second: 3boss_119
+  - first:
+      213: -6729052648370015931
+    second: 3boss_120
+  - first:
+      213: -3606921885752451752
+    second: 3boss_121
+  - first:
+      213: 6909433014893451880
+    second: 3boss_122
+  - first:
+      213: -2007402292998350978
+    second: 3boss_123
+  - first:
+      213: 7576307780220079968
+    second: 3boss_124
+  - first:
+      213: 3924617595479289878
+    second: 3boss_125
+  - first:
+      213: -1175615621940605421
+    second: 3boss_126
+  - first:
+      213: 3270830748152609440
+    second: 3boss_127
+  - first:
+      213: -4944212031429196754
+    second: 3boss_128
+  - first:
+      213: -2869146052896211146
+    second: 3boss_129
+  - first:
+      213: 7891890410928036485
+    second: 3boss_130
+  - first:
+      213: -7402517333148483508
+    second: 3boss_131
+  - first:
+      213: -8953752853216223658
+    second: 3boss_132
+  - first:
+      213: -6291766600375960596
+    second: 3boss_133
+  - first:
+      213: 8455696952224314688
+    second: 3boss_134
+  - first:
+      213: 972026737920392207
+    second: 3boss_135
+  - first:
+      213: 7281266659539865979
+    second: 3boss_136
+  - first:
+      213: -6082769892429981714
+    second: 3boss_137
+  - first:
+      213: -2609905231940895531
+    second: 3boss_138
+  - first:
+      213: 8930650084732402248
+    second: 3boss_139
+  - first:
+      213: -4782222853094619500
+    second: 3boss_140
+  - first:
+      213: 6257265846034582759
+    second: 3boss_141
+  - first:
+      213: 6305901275298726870
+    second: 3boss_142
+  - first:
+      213: -2106671602381741102
+    second: 3boss_143
+  - first:
+      213: -9069002258415743486
+    second: 3boss_144
+  - first:
+      213: -1967796392409005389
+    second: 3boss_145
+  - first:
+      213: -1236908681988368367
+    second: 3boss_146
+  - first:
+      213: -6035817816546382022
+    second: 3boss_147
+  - first:
+      213: -647528899585258940
+    second: 3boss_148
+  - first:
+      213: 5656371785614324115
+    second: 3boss_149
+  - first:
+      213: 5939230821608870110
+    second: 3boss_150
+  - first:
+      213: -6526301529535192528
+    second: 3boss_151
+  - first:
+      213: -3269540441555139432
+    second: 3boss_152
+  - first:
+      213: -2231803489295278035
+    second: 3boss_153
+  - first:
+      213: 7950692211321303407
+    second: 3boss_154
+  - first:
+      213: 5922773718412830605
+    second: 3boss_155
+  - first:
+      213: 7137558634774730663
+    second: 3boss_156
+  - first:
+      213: 3275843130956653000
+    second: 3boss_157
+  - first:
+      213: -1854753824796338362
+    second: 3boss_158
+  - first:
+      213: 3434102151659853642
+    second: 3boss_159
+  - first:
+      213: -1185455476428638275
+    second: 3boss_160
+  - first:
+      213: -4906119840657899427
+    second: 3boss_161
+  - first:
+      213: 5096611032607345858
+    second: 3boss_162
+  - first:
+      213: -6698904836989149670
+    second: 3boss_163
+  - first:
+      213: -2648224676125414490
+    second: 3boss_164
+  - first:
+      213: 1428940535404960577
+    second: 3boss_165
+  - first:
+      213: 2126140020850404857
+    second: 3boss_166
+  - first:
+      213: -3838924937248992823
+    second: 3boss_167
+  - first:
+      213: 3910796501784000840
+    second: 3boss_168
+  - first:
+      213: -823833857710150251
+    second: 3boss_169
+  - first:
+      213: 6813307887023526198
+    second: 3boss_170
+  - first:
+      213: 7110899467642550589
+    second: 3boss_171
+  - first:
+      213: 353983700240729490
+    second: 3boss_172
+  - first:
+      213: 997818519254815609
+    second: 3boss_173
+  - first:
+      213: 1403502003778404274
+    second: 3boss_174
+  - first:
+      213: -8836941001343038725
+    second: 3boss_175
+  - first:
+      213: 4014855683130221837
+    second: 3boss_176
+  - first:
+      213: -6214393714549725637
+    second: 3boss_177
+  - first:
+      213: -7024819985535704709
+    second: 3boss_178
+  - first:
+      213: -8014292338732756654
+    second: 3boss_179
+  - first:
+      213: 168358988545749520
+    second: 3boss_180
+  - first:
+      213: 9082253783575210100
+    second: 3boss_181
+  - first:
+      213: -1363689740513665971
+    second: 3boss_182
+  - first:
+      213: 4677243287091103736
+    second: 3boss_183
+  - first:
+      213: 2421616104411339495
+    second: 3boss_184
+  - first:
+      213: 274180866705461672
+    second: 3boss_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3boss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc77dd06957cc48b7fb16cca40529f
+      internalID: -1049172385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7e5cd82097b447a735ce0678cfc93
+      internalID: 560939350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd97476e43e0df48b8d6c1aa59ea659
+      internalID: -1786534862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_3
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f030d876fce89649be75f5dbf413bf3
+      internalID: 1866606640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_4
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563b5958e0caa549b4d1ff073b6490d
+      internalID: 1164271024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_5
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f551d3c14e1757b4d900cd585a3036fe
+      internalID: -1292991749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_6
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4992
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f35e3b2f179224c9175bf59f0fc2aa
+      internalID: -1265702351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8309a7bb04d6b4d9aac81d8d038a96
+      internalID: -658725441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73038ad13bfc88c43a4f04b347092b5b
+      internalID: -852080373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535384c780bca2945a6091c9c110d926
+      internalID: -514689316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573fc9f4e7cea048901f53698e418e9
+      internalID: 93457319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_11
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a86ddb104954a40b61699133bf2e25
+      internalID: 414102913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_12
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d07d21f0110a40bf2e0e7dbb4afc2
+      internalID: -1716594954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_13
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4608
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73edda3ae881fa4f81c15daf3b0fc94
+      internalID: 1691102388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d813e8df888a4c852ce9ba043be12
+      internalID: -703848488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59413ce9d4ab0e4095fc17e458ff44a
+      internalID: 1781320327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488805c590fab3947a4092f35f1a2d7f
+      internalID: -1051621549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_17
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fbce24a36bba4fa7749dce8d88b09
+      internalID: -1116364701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e0f8b88cbd06344aa07ebe530d6e0c
+      internalID: 1884370117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_19
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4485a4fe08a814986ee3868419e2ce
+      internalID: -2033062999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_20
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4224
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e80d5360408284c93511b5010d750e
+      internalID: -501507798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738b5ad23388074795214420074e47f
+      internalID: 286283319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb9f2ea10872d48aca266d8170db7c
+      internalID: -1101713762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4720a1fd014145a02d18d7679ea30
+      internalID: 1034070189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_24
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7974c6d88371845aa5209327f203ed
+      internalID: -1004395692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_25
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd77767fcbd8740bb56b19e464375a
+      internalID: 2068545326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_26
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96008667b038fb41b83a0691eedca27
+      internalID: -1401222345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_27
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3840
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00816f31b4860c45added5ba1d95da7
+      internalID: 269876157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea88e38d71cc7d4c939b949edfc8e76
+      internalID: 612231665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bcbee46591c344282db2d428b7c928
+      internalID: -1204135754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_30
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3a48665e6b0b4195e75118a8a67ae
+      internalID: 130403169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_31
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce0082fc6fbfd48a2fd03dd3074a4a
+      internalID: -905045802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_32
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab0f7cbe829ac49a3681842fdc8cf1
+      internalID: -1292375455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_33
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e93f39fa74704fba2a5558b276fd3
+      internalID: 2067005599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_34
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3456
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98889b2d151e32f47bc130dbf5a5eefc
+      internalID: -632664104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af13cd7fe08f14bbf9b2cfafa5bb3e
+      internalID: 391770824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1deb44ad090542849f1da5874fc42
+      internalID: 271184870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe7af41646c9d4cbd8cc8de68e4d38
+      internalID: 2051841573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_38
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf666f08308a64e9dc4a397a54310a
+      internalID: -646436844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_39
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c8f474b40652b4386877abd2b4ac4c
+      internalID: -1351896080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_40
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c51a8e57af4740b37c00542e3e7cc
+      internalID: -1885316178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_41
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3072
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e76018e83705604a849b0c0aa263e84
+      internalID: 1517653976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af8e73d4ada3a4e87d3b0e25850dd2
+      internalID: 974068977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293bb0b750a15b40a04b5888db405f4
+      internalID: -2132312576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_44
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b35b6134a0b2c45b28b377f75e157c
+      internalID: -100344592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef66b80cdbcde4f8c083984960b62c
+      internalID: 1532152322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_46
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700808e17f38fd4e883f020ff5f84bf
+      internalID: 963051251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531ca0f3d987864e94c56097bc784b7
+      internalID: 1519059390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_48
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2688
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5e8066de2c27489ab347dd82a0965
+      internalID: 1241900006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb2622332058e4ea19f5ac8c176b33
+      internalID: 1327133979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558323bbd307fa44f9889cf81f9e7444
+      internalID: 1274737782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_51
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca279e2aa71ae49bff3246b5e0a856
+      internalID: 440163982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_52
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21111bd7dfda51540bfb91fe1492c342
+      internalID: 682611102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_53
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e40e6e7b0d43fb408d50530d4d9f704
+      internalID: -301636268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_54
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4cbcd6b672ef409b426db623de686
+      internalID: 2111452020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_55
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2304
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191002e6e57746341bb580d709518f61
+      internalID: 584606478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bc751b6c5428540a940cb054d98cf4
+      internalID: -2058494876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec44e1b8d54abe4c9fd0aeca0a29f06
+      internalID: 127874544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_58
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3d1034f6e0634e92873600acacd3a
+      internalID: -285805476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_59
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c56546d16b3840a826a868200e767
+      internalID: 982662393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_60
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1d52429bfd2c4d998c018e577b97d
+      internalID: 73682138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_61
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a873f962084c1a4e88c43cfde72643f
+      internalID: 807187623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_62
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1920
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c81630232d6e4699e671654ab7217
+      internalID: 1043921915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817ad10a19feb247afb3cafe2d9e0b7
+      internalID: -1579696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_64
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0a23d9df5b2e459868fba30eaf7f8
+      internalID: -884324054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_65
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d549c594975ba41b7de3e4002ae958
+      internalID: 398857671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_66
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067b47dc6197afc4b90f1496757ee60d
+      internalID: 1413096822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_67
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2239cf26a193499bd34f71c11823f
+      internalID: -936231673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_68
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a188c3986d34e44ac7b4cecb449ccb
+      internalID: -633080676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_69
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1536
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442fe740bb542a409c705beccef9a6f
+      internalID: 438561785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8189b4868bdc42a6f29a052225b99
+      internalID: -1685960002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc915827663eaf7469419609cb0d878a
+      internalID: 1164519835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_72
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04baa6ea201bd0469fd139d2b7699b2
+      internalID: 757065657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_73
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd0192ccbbd904ea53ccd821074581
+      internalID: -1819847240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_74
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14135e0097503d4cbe0fc23fb540097
+      internalID: -1803574907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_75
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec8731c5870bb45a7f173589622951
+      internalID: -1528991632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_76
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1152
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0a20d2387eb6c4f9399136fb2bbc6e
+      internalID: -1970114769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b11229f646014f89637e8567e9b7e
+      internalID: -1222930675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8499a9f1227f094429f0b7a620a45c69
+      internalID: -230579374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_79
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333bb6303eda72488bb6c2f60776538
+      internalID: -703988221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_80
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00e25155ee20c4daaa18edb5f81860
+      internalID: -1157656390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_81
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8e6c5c5f1eb149b7132cc08786e00
+      internalID: -1883969616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_82
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbddedc112df0f42ac1a42cc5e65c06
+      internalID: 513650053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_83
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 768
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4febee4f0a977a40a0de07de323e42b
+      internalID: 765822386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3487f9a24d8e5e4c81c2cc8f0e265b8
+      internalID: -1853903970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0d9a92b1a4794ba0e0b7a404e4cfb
+      internalID: -325774814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_86
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926ba89e462d8145b95f098abe59dc2
+      internalID: -1051660609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_87
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f78a5ac04c75846b80b00382941c78
+      internalID: -541737689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_88
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ecc9fc122ddc9488a79a9894743464
+      internalID: -745617500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_89
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b80a33d00569489abf9d5427f7544
+      internalID: -243124192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_90
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 384
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf7a18ecf67784e80be1862e6132a2
+      internalID: 747960856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64901798877022545af9125edb791115
+      internalID: 607346722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09570a482d397844b845eea7c311d6eb
+      internalID: -13090975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b72306c6ba094bb5df5111011f781
+      internalID: -931648255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_94
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89573f1dc2245004a8b5cefc37bc81e7
+      internalID: -1785639227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_95
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147aaf1efd8cb5549a3fe442436d7421
+      internalID: 373870291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_96
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbbe54b39dc72a47824e14fdc1face4
+      internalID: -2144490107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3boss_97
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 672
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c1d2f5b66632c4c9217e89047ca817
+      internalID: 2136852229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa7ae5e105b39384093b482ba119d2e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3boss_0: -1049172385
+      3boss_1: 560939350
+      3boss_10: 93457319
+      3boss_11: 414102913
+      3boss_12: -1716594954
+      3boss_13: 1691102388
+      3boss_14: -703848488
+      3boss_15: 1781320327
+      3boss_16: -1051621549
+      3boss_17: -1116364701
+      3boss_18: 1884370117
+      3boss_19: -2033062999
+      3boss_2: -1786534862
+      3boss_20: -501507798
+      3boss_21: 286283319
+      3boss_22: -1101713762
+      3boss_23: 1034070189
+      3boss_24: -1004395692
+      3boss_25: 2068545326
+      3boss_26: -1401222345
+      3boss_27: 269876157
+      3boss_28: 612231665
+      3boss_29: -1204135754
+      3boss_3: 1866606640
+      3boss_30: 130403169
+      3boss_31: -905045802
+      3boss_32: -1292375455
+      3boss_33: 2067005599
+      3boss_34: -632664104
+      3boss_35: 391770824
+      3boss_36: 271184870
+      3boss_37: 2051841573
+      3boss_38: -646436844
+      3boss_39: -1351896080
+      3boss_4: 1164271024
+      3boss_40: -1885316178
+      3boss_41: 1517653976
+      3boss_42: 974068977
+      3boss_43: -2132312576
+      3boss_44: -100344592
+      3boss_45: 1532152322
+      3boss_46: 963051251
+      3boss_47: 1519059390
+      3boss_48: 1241900006
+      3boss_49: 1327133979
+      3boss_5: -1292991749
+      3boss_50: 1274737782
+      3boss_51: 440163982
+      3boss_52: 682611102
+      3boss_53: -301636268
+      3boss_54: 2111452020
+      3boss_55: 584606478
+      3boss_56: -2058494876
+      3boss_57: 127874544
+      3boss_58: -285805476
+      3boss_59: 982662393
+      3boss_6: -1265702351
+      3boss_60: 73682138
+      3boss_61: 807187623
+      3boss_62: 1043921915
+      3boss_63: -1579696206
+      3boss_64: -884324054
+      3boss_65: 398857671
+      3boss_66: 1413096822
+      3boss_67: -936231673
+      3boss_68: -633080676
+      3boss_69: 438561785
+      3boss_7: -658725441
+      3boss_70: -1685960002
+      3boss_71: 1164519835
+      3boss_72: 757065657
+      3boss_73: -1819847240
+      3boss_74: -1803574907
+      3boss_75: -1528991632
+      3boss_76: -1970114769
+      3boss_77: -1222930675
+      3boss_78: -230579374
+      3boss_79: -703988221
+      3boss_8: -852080373
+      3boss_80: -1157656390
+      3boss_81: -1883969616
+      3boss_82: 513650053
+      3boss_83: 765822386
+      3boss_84: -1853903970
+      3boss_85: -325774814
+      3boss_86: -1051660609
+      3boss_87: -541737689
+      3boss_88: -745617500
+      3boss_89: -243124192
+      3boss_9: -514689316
+      3boss_90: 747960856
+      3boss_91: 607346722
+      3boss_92: -13090975
+      3boss_93: -931648255
+      3boss_94: -1785639227
+      3boss_95: 373870291
+      3boss_96: -2144490107
+      3boss_97: 2136852229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

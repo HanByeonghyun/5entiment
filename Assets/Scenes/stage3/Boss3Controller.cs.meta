@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 87df9f40ee3f1534aa130f6a9f3a73c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - swampPrefab: {fileID: 1826791167729491815, guid: 41a56a0cc94a40a428a8d26702ab7836, type: 3}
+  - warningPrefab: {fileID: 7143127066360742285, guid: dc915f9c7e2fa9748a0493cc8f6bfdcf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

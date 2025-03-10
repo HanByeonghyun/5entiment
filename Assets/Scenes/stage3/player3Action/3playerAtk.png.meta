@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: d5e6446235480ec46866245b229e82f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6125016605791506118
+    second: 3playerAtk_0
+  - first:
+      213: 238638079341709224
+    second: 3playerAtk_1
+  - first:
+      213: 1209466438753902527
+    second: 3playerAtk_2
+  - first:
+      213: -49474633900951927
+    second: 3playerAtk_3
+  - first:
+      213: -1229552303239499503
+    second: 3playerAtk_4
+  - first:
+      213: 6489183387603966269
+    second: 3playerAtk_5
+  - first:
+      213: 4179709946037167075
+    second: 3playerAtk_6
+  - first:
+      213: 8999913448115501968
+    second: 3playerAtk_7
+  - first:
+      213: -4885059024526672542
+    second: 3playerAtk_8
+  - first:
+      213: 5611506364540781656
+    second: 3playerAtk_9
+  - first:
+      213: 3918756930550981929
+    second: 3playerAtk_10
+  - first:
+      213: 6106307407365660338
+    second: 3playerAtk_11
+  - first:
+      213: 4354620419960390652
+    second: 3playerAtk_12
+  - first:
+      213: -6529894580487673795
+    second: 3playerAtk_13
+  - first:
+      213: -2679857640292025241
+    second: 3playerAtk_14
+  - first:
+      213: -455469666417368073
+    second: 3playerAtk_15
+  - first:
+      213: -2931126599489261095
+    second: 3playerAtk_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3playerAtk_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1041
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4297b62e600550800000000000000
+      internalID: 6125016605791506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1041
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74b0d9110df4300800000000000000
+      internalID: 238638079341709224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_2
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1041
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfdea96153e8c010800000000000000
+      internalID: 1209466438753902527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 781
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f0f4251b305ff0800000000000000
+      internalID: -49474633900951927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 781
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11175a4d1b0cfeee0800000000000000
+      internalID: -1229552303239499503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_5
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 781
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39108ce8e53e0a50800000000000000
+      internalID: 6489183387603966269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 521
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e366b50d00510a30800000000000000
+      internalID: 4179709946037167075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 521
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7f24f89d16ec70800000000000000
+      internalID: 8999913448115501968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_8
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 521
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d754803b8c43cb0800000000000000
+      internalID: -4885059024526672542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_9
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 570
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8540c49be4310ed40800000000000000
+      internalID: 5611506364540781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 261
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92567967aa8326630800000000000000
+      internalID: 3918756930550981929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 300
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bedd510c36fdb450800000000000000
+      internalID: 6106307407365660338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 261
+        width: 147
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c66f3338be6c30800000000000000
+      internalID: 4354620419960390652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_13
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 261
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a845d9772165a0800000000000000
+      internalID: -6529894580487673795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf6c5bcab3fcad0800000000000000
+      internalID: -2679857640292025241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f32a3760c8dda9f0800000000000000
+      internalID: -455469666417368073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3playerAtk_16
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d17eb533eb8257d0800000000000000
+      internalID: -2931126599489261095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fb7a34d2c40c0e48a219b3c2e2d27af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3playerAtk_0: 6125016605791506118
+      3playerAtk_1: 238638079341709224
+      3playerAtk_10: 3918756930550981929
+      3playerAtk_11: 6106307407365660338
+      3playerAtk_12: 4354620419960390652
+      3playerAtk_13: -6529894580487673795
+      3playerAtk_14: -2679857640292025241
+      3playerAtk_15: -455469666417368073
+      3playerAtk_16: -2931126599489261095
+      3playerAtk_2: 1209466438753902527
+      3playerAtk_3: -49474633900951927
+      3playerAtk_4: -1229552303239499503
+      3playerAtk_5: 6489183387603966269
+      3playerAtk_6: 4179709946037167075
+      3playerAtk_7: 8999913448115501968
+      3playerAtk_8: -4885059024526672542
+      3playerAtk_9: 5611506364540781656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
